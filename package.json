@@ -1,0 +1,8 @@
+{
+    "type": "module",
+    "babel": {
+      "presets": [
+        "@babel/preset-env"
+      ]
+    }
+  }
